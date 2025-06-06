@@ -184,12 +184,12 @@
 
 ---
 
-**本プライバシーポリシーの多言語版**:
-- [简体中文版本] (中国語簡体字版リンク)
-- [English Version] (英語版リンク)
-- [繁體中文版本] (中国語繁体字版リンク)
-- [日本語版] (このバージョン)
-- [한국어 버전] (韓国語版リンク)
+**このプライバシーポリシーの多言語版**:
+- [簡体中国語版](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/zh/privacy.md)
+- [English Version](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/en/privacy.md)
+- [繁体中国語版](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/zh-tw/privacy.md)
+- [日本語版](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/ja/privacy.md)
+- [한국어 버전](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/ko/privacy.md)
 
 言語版間に差異がある場合、ユーザーに最も有利な条項を優先します。
 

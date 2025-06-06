@@ -185,11 +185,11 @@
 ---
 
 **本隐私政策的多语言版本**:
-- [简体中文版本] (此版本)
-- [English Version] (英文版本链接)
-- [繁體中文版本] (繁体中文版本链接)
-- [日本語版] (日语版本链接)
-- [한국어 버전] (韩语版本链接)
+- [简体中文版本](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/zh/privacy.md)
+- [English Version](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/en/privacy.md)
+- [繁體中文版本](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/zh-tw/privacy.md)
+- [日本語版](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/ja/privacy.md)
+- [한국어 버전](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/ko/privacy.md)
 
 如有语言版本间的差异，以对用户最有利的条款为准。
 

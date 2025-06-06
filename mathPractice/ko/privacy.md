@@ -184,12 +184,12 @@
 
 ---
 
-**본 개인정보 처리방침의 다국어 버전**:
-- [简体中文版本] (중국어 간체 버전 링크)
-- [English Version] (영어 버전 링크)
-- [繁體中文版本] (중국어 번체 버전 링크)
-- [日本語版] (일본어 버전 링크)
-- [한국어 버전] (이 버전)
+**이 개인정보 보호정책의 다국어 버전**:
+- [简体中文版本](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/zh/privacy.md)
+- [English Version](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/en/privacy.md)
+- [繁體中文版本](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/zh-tw/privacy.md)
+- [日本語版](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/ja/privacy.md)
+- [한국어 버전](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/ko/privacy.md)
 
 언어 버전 간 차이가 있을 경우, 사용자에게 가장 유리한 조항을 우선합니다.
 

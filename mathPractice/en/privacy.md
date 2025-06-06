@@ -185,11 +185,11 @@ Except for minimal data required for subscription verification, we do not conduc
 ---
 
 **Multi-language versions of this privacy policy**:
-- [Simplified Chinese Version] (Chinese version link)
-- [English Version] (this version)
-- [Traditional Chinese Version] (Traditional Chinese version link)
-- [Japanese Version] (Japanese version link)
-- [Korean Version] (Korean version link)
+- [Simplified Chinese Version](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/zh/privacy.md)
+- [English Version](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/en/privacy.md)
+- [Traditional Chinese Version](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/zh-tw/privacy.md)
+- [Japanese Version](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/ja/privacy.md)
+- [Korean Version](https://raw.githubusercontent.com/51yourdream/privacy/refs/heads/main/mathPractice/ko/privacy.md)
 
 If there are differences between language versions, the terms most favorable to users shall prevail.
 
