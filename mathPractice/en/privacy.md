@@ -159,8 +159,6 @@ We will respond to your inquiry within 30 days.
 
 **How to delete application data**:
 1. Delete application: All local data will be permanently deleted
-2. Reset application: Select "Reset all data" in application settings
-3. Contact us: Send an email requesting deletion of server-side data (if any)
 
 **Impact after deletion**:
 - All learning records will be lost
