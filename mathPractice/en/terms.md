@@ -1,4 +1,4 @@
-# 📋 Math Practice APP - Terms of Service
+# 📋 Math Learning Assistant APP - Terms of Service
 
 **Effective Date**: June 7, 2025  
 **Last Updated**: June 7, 2025  
@@ -8,7 +8,7 @@
 
 ## 1. Acceptance of Terms
 
-Welcome to the "Math Practice" mobile application (hereinafter referred to as "this application" or "service"). This application is developed and operated by Peng Li (hereinafter referred to as "we" or "company").
+Welcome to the "Math Learning Assistant" mobile application (hereinafter referred to as "this application" or "service"). This application is developed and operated by Peng Li (hereinafter referred to as "we" or "company").
 
 By downloading, installing, accessing, or using this application, you (hereinafter referred to as "user" or "you") indicate that you have read, understood, and agree to be bound by these Terms of Service (hereinafter referred to as "terms"). If you do not agree to these terms, please do not use this application.
 

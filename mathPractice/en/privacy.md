@@ -1,4 +1,4 @@
-# 📋 Privacy Policy Template - Math Practice APP
+# 📋 Privacy Policy Template - Math Learning Assistant APP
 
 ## Privacy Policy
 
@@ -7,7 +7,7 @@
 
 ### 1. Introduction
 
-Thank you for choosing to use the "Math Practice" application (hereinafter referred to as "our application" or "this application"). This privacy policy explains how we collect, use, store, and protect information about you and your child.
+Thank you for choosing to use the "Math Learning Assistant" application (hereinafter referred to as "our application" or "this application"). This privacy policy explains how we collect, use, store, and protect information about you and your child.
 
 We deeply understand the importance of protecting children's privacy and strictly comply with the Children's Online Privacy Protection Act (COPPA) and other applicable privacy laws and regulations.
 
