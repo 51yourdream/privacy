@@ -8,50 +8,50 @@
 
 ## 1. Acceptance of Terms
 
-Welcome to the "Math Learning Assistant" mobile application (hereinafter referred to as "this application" or "service"). This application is developed and operated by Peng Li (hereinafter referred to as "we" or "company").
+Welcome to the "Math Learning Assistant" mobile application (hereinafter referred to as "this app" or "service"). This app is developed and operated by Peng Li (hereinafter referred to as "we", "company").
 
-By downloading, installing, accessing, or using this application, you (hereinafter referred to as "user" or "you") indicate that you have read, understood, and agree to be bound by these Terms of Service (hereinafter referred to as "terms"). If you do not agree to these terms, please do not use this application.
+By downloading, installing, accessing, or using this app, you (hereinafter referred to as "user" or "you") indicate that you have read, understood, and agree to be bound by these Terms of Service (hereinafter referred to as "terms"). If you do not agree with these terms, please do not use this app.
 
-**Special Notice**: This application is designed specifically for children aged 4-10. If you are a guardian of a minor, you are responsible for supervising their use of this application and ensuring compliance with these terms.
+**Special Notice**: If you are a guardian of a minor, you are responsible for supervising their use of this app and ensuring compliance with these terms.
 
 ---
 
 ## 2. Service Description
 
-### 2.1 Application Features
-This application provides the following main features:
+### 2.1 App Features
+This app provides the following main features:
 - **Basic Math Practice**: Addition, subtraction, multiplication, division exercises
-- **Intelligent Difficulty Adjustment**: Automatic adjustment of problem difficulty based on user performance
-- **Learning Progress Tracking**: Recording and analyzing learning data
-- **Parental Control Features**: Time management and learning supervision
+- **Intelligent Difficulty Adjustment**: Automatically adjusts problem difficulty based on user performance
+- **Learning Progress Tracking**: Records and analyzes learning data
+- **Supervision Control Features**: Time management and learning supervision
 - **Multi-language Support**: Simplified Chinese, Traditional Chinese, English, Japanese, Korean
 
 ### 2.2 Premium Features
 Paid members can enjoy the following advanced features:
-- **AI Intelligent Problem Generation**: Personalized problem generation and printing
+- **AI Smart Problem Generation**: Personalized problem generation and printing
 - **Detailed Statistical Analysis**: In-depth learning data analysis
-- **Wrong Answer Review System**: Targeted practice for incorrect answers
+- **Wrong Answer Review System**: Targeted incorrect problem practice
 - **Professional Learning Reports**: Comprehensive learning assessment reports
 
 ---
 
-## 3. User Account and Responsibilities
+## 3. User Accounts and Responsibilities
 
 ### 3.1 Account Security
-- You are responsible for protecting the security of your device and application data
+- You are responsible for protecting the security of your device and app data
 - Do not share your paid account information with others
 - Contact us immediately if you discover abnormal account usage
 
 ### 3.2 Reasonable Use
 You agree to:
-- Use this application only for legitimate educational purposes
-- Not attempt to crack, modify, or reverse engineer this application
-- Not use this application for any commercial activities
+- Use this app only for legitimate educational purposes
+- Not attempt to crack, modify, or reverse engineer this app
+- Not use this app for any commercial activities
 - Comply with all applicable laws and regulations
 
-### 3.3 Children's Use
-- Children under 4 should use under adult supervision
-- Parents are responsible for setting appropriate usage time limits
+### 3.3 Usage Recommendations
+- Younger users should use under adult supervision
+- Guardians are responsible for setting appropriate usage time limits
 - Recommended usage time should not exceed 30 minutes per session
 
 ---
@@ -60,19 +60,19 @@ You agree to:
 
 ### 4.1 Subscription Types
 We offer the following subscription options:
-- **Weekly Subscription**: 7-day auto-renewing subscription
-- **Annual Subscription**: 365-day auto-renewing subscription
+- **Weekly Subscription**: 7-day auto-renewal subscription
+- **Annual Subscription**: 365-day auto-renewal subscription
 - **Free Trial**: New users can enjoy limited-time free experience
 
 ### 4.2 Payment Terms
 - All subscription fees are processed through Apple App Store
-- Subscription fees are deducted from your Apple ID account upon purchase confirmation
-- Prices may vary by region, subject to App Store displayed prices
+- Subscription fees are charged from your Apple ID account upon purchase confirmation
+- Prices may vary by region, with App Store displayed prices as standard
 - All prices include applicable taxes
 
 ### 4.3 Auto-Renewal
-- Subscriptions will automatically renew unless you cancel at least 24 hours before the end of the current subscription period
-- Renewal fees will be charged within 24 hours before the end of the current period
+- Subscriptions will auto-renew unless canceled at least 24 hours before the current subscription period ends
+- Renewal fees will be charged within 24 hours before the current period ends
 - You can manage and cancel subscriptions in your Apple ID account settings
 
 ---
@@ -82,36 +82,36 @@ We offer the following subscription options:
 ### 5.1 Refund Principles
 - Refund policy follows Apple App Store's standard refund policy
 - Generally, purchased subscription fees are non-refundable
-- Refund requests under special circumstances require Apple customer service review
+- Special refund requests require Apple customer service review
 
 ### 5.2 Refund Process
 To request a refund, please:
 1. Contact Apple customer service (recommended method)
 2. Or send an email to our customer service explaining the situation
-3. Provide purchase receipt and reason for refund
+3. Provide proof of purchase and reason for refund
 
 ### 5.3 Service Termination
-- After refund, your membership privileges will be terminated immediately
-- You can continue to use basic free features
+- After refund, your premium privileges will be immediately terminated
+- You can still continue using basic free features
 - Downloaded learning data will remain on your device
 
 ---
 
 ## 6. Intellectual Property
 
-### 6.1 Application Copyright
-- This application and all its content are protected by copyright law
+### 6.1 App Copyright
+- This app and all its content are protected by copyright law
 - Including but not limited to: software code, interface design, problem content, images, text, etc.
-- You receive only a usage license, not ownership
+- You obtain only a usage license, not ownership
 
 ### 6.2 User Content
-- Learning data generated during your use of this application belongs to you
+- Learning data generated during your use of this app belongs to you
 - We will not use your personal learning data for commercial purposes
 - Anonymized statistical data may be used to improve product features
 
 ### 6.3 Third-Party Content
-- This application may contain content or links provided by third parties
-- Copyright of third-party content belongs to their respective owners
+- This app may contain content or links provided by third parties
+- Third-party content copyright belongs to their respective owners
 - We are not responsible for third-party content
 
 ---
@@ -121,32 +121,32 @@ To request a refund, please:
 ### 7.1 Data Collection
 Our privacy policy details how we collect, use, and protect your information. Please visit our privacy policy for details.
 
-### 7.2 Children's Privacy
-- We strictly comply with the Children's Online Privacy Protection Act (COPPA)
-- Will not actively collect personal information from children under 13
-- All learning data is primarily stored on local devices
+### 7.2 User Privacy
+- We strictly comply with relevant privacy protection laws and regulations
+- We do not actively collect users' personal sensitive information
+- All learning data is preferentially stored on local devices
 
 ### 7.3 Data Security
-- Industry-standard security measures are used to protect your data
-- Regular security reviews and updates are conducted
-- Users are notified promptly when security issues are discovered
+- We use industry-standard security measures to protect your data
+- Regular security reviews and updates
+- Promptly notify users when security issues are discovered
 
 ---
 
-## 8. Disclaimer
+## 8. Disclaimers
 
 ### 8.1 Service Availability
 - We strive to ensure service stability but do not guarantee uninterrupted service
 - Service may be temporarily interrupted due to maintenance, updates, or force majeure
-- We are not responsible for losses caused by service interruption
+- We are not responsible for losses caused by service interruptions
 
-### 8.2 Learning Effectiveness
-- This application is a learning aid tool and does not guarantee specific learning outcomes
-- Learning effectiveness varies due to individual differences
-- Parents should combine other educational methods for comprehensive child development
+### 8.2 Learning Effects
+- This app is a learning assistance tool and does not guarantee specific learning outcomes
+- Learning effects vary by individual differences
+- Guardians should combine other educational methods to comprehensively develop users
 
 ### 8.3 Device Compatibility
-- This application supports iOS 15.0 and above
+- This app supports iOS 15.0 and above
 - We do not guarantee perfect operation on all devices
 - Recommended use on supported devices and system versions
 
@@ -173,18 +173,18 @@ We are not responsible for service interruptions caused by:
 
 ### 10.1 Service Updates
 - We reserve the right to modify, update, or improve services at any time
-- Users will be notified in advance of major changes
+- Major changes will be notified to users in advance
 - Your continued use of the service indicates acceptance of these changes
 
 ### 10.2 Service Termination
 We may terminate services under the following circumstances:
-- You violate these Terms of Service
-- The service is no longer commercially viable
+- You violate these terms of service
+- Service is no longer commercially viable
 - Required by laws and regulations
 
 ### 10.3 Consequences of Termination
 After service termination:
-- Your membership privileges will be immediately invalidated
+- Your premium privileges will immediately expire
 - Locally stored data is not affected
 - Certain terms remain effective after termination
 
@@ -196,19 +196,19 @@ After service termination:
 The interpretation and enforcement of these terms are governed by the laws of the People's Republic of China.
 
 ### 11.2 Dispute Resolution Methods
-In case of disputes, parties should first attempt amicable negotiation. If negotiation fails, resolution can be sought through:
+In case of disputes, parties should first resolve through friendly consultation. If consultation fails, resolution can be sought through:
 1. **Customer Service Mediation**: Contact our customer service team
-2. **Consumer Association**: File a complaint with local consumer association
-3. **Legal Channels**: File a lawsuit with the competent people's court
+2. **Consumer Association**: File complaints with local consumer associations
+3. **Legal Channels**: File lawsuits with competent people's courts
 
-### 11.3 Jurisdiction
+### 11.3 Jurisdiction Court
 Disputes arising from these terms shall be under the jurisdiction of the people's court where the company is located.
 
 ---
 
 ## 12. Other Terms
 
-### 12.1 Terms Amendment
+### 12.1 Terms Changes
 - We reserve the right to modify these terms at any time
 - Important modifications will be notified through in-app notifications or email
 - Modified terms take effect from the date of publication
@@ -218,7 +218,7 @@ Disputes arising from these terms shall be under the jurisdiction of the people'
 If any part of these terms is deemed invalid or unenforceable, the remaining parts remain valid.
 
 ### 12.3 Complete Agreement
-These terms constitute the complete agreement between you and us regarding the use of this application, superseding all previous oral or written agreements.
+These terms constitute the complete agreement between you and us regarding the use of this app, superseding all previous oral or written agreements.
 
 ### 12.4 Language Versions
 These terms are available in multiple language versions. In case of conflicts between versions, the Simplified Chinese version shall prevail.
@@ -233,7 +233,7 @@ If you have any questions or suggestions about these Terms of Service, please co
 **Official Website**: https://github.com/51yourdream  
 **Service Hours**: Weekdays 9:00-18:00 (GMT+8)
 
-We promise to reply within 24 hours of receiving your inquiry.
+We promise to reply to your inquiry within 24 hours of receipt.
 
 ---
 
@@ -242,18 +242,18 @@ We promise to reply within 24 hours of receiving your inquiry.
 **Important Notice**: The following summary is for reference only. Complete rights and obligations are subject to the detailed terms above.
 
 ### ✅ Your Rights
-- Use basic features of this application
-- Enjoy premium features as a paid member
+- Use basic features of this app
+- Enjoy advanced features of paid membership
 - Protect personal data and privacy
-- Apply for refunds when conditions are met
+- Apply for refunds when eligible
 - Receive customer service support
 
 ### ⚠️ Your Obligations
-- Comply with Terms of Service and applicable laws
+- Comply with terms of service and applicable laws
 - Protect account and device security
 - Supervise minor usage
-- Use application features reasonably
-- Update application versions promptly
+- Use app features reasonably
+- Update app versions timely
 
 ### 📞 Need Help?
 If you have any questions, please contact our customer service team at any time. We are committed to providing you with the best service experience!
