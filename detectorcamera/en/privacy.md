@@ -1,95 +1,205 @@
 # Privacy Policy
 
-**Effective Date:** August 27, 2024  
-**Last Updated:** August 27, 2024
+**Effective Date**: January 1, 2025  
+**Last Updated**: January 1, 2025
 
 ## 1. Introduction
 
-Welcome to the Passport Photo Maker application (hereinafter referred to as "this app"). We take your privacy protection very seriously. This privacy policy details how we collect, use, store, and protect your personal information.
+Welcome to our mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our App. We are committed to protecting your privacy and ensuring transparency in our data practices.
 
-## 2. Information Collection
+By using our App, you agree to the collection and use of information in accordance with this Privacy Policy.
 
-### 2.1 Information You Actively Provide
-- **Photo Content**: Photos you upload for passport photo creation
-- **Device Information**: Device model, operating system version, app version, etc.
-- **Usage Preferences**: Photo specifications, background colors, and other settings you choose
+## 2. Information We Collect
 
-## 3. Information Usage
+### 2.1 Information You Provide Directly
+- Account information (if applicable)
+- User preferences and settings
+- Feedback and support communications
+- Any other information you choose to provide
 
-### 3.1 Primary Purposes
-- Provide passport photo creation services
-- Improve app functionality and user experience
-- Provide customer support and technical services
-- Ensure app security and stability
+### 2.2 Information We Collect Automatically
+- **Device Information**: Device model, operating system version, unique device identifiers
+- **App Usage Data**: Features used, time spent in the App, crash reports
+- **Performance Data**: App performance metrics and technical logs
+- **Local Storage**: Data stored locally on your device for App functionality
 
-### 3.2 Third-Party Services
-- **Remove.bg API**: For photo background removal services
-- **RevenueCat**: For subscription management and payment processing
+### 2.3 Permissions We May Request
+- **Camera Access**: Only when you actively use camera features
+- **Photo Library Access**: Only when you choose to access photos
+- **Network Access**: For App functionality and updates
+- **Local Network**: For device-to-device communication (if applicable)
+- **Notifications**: To send you relevant updates and alerts
 
-## 4. Information Storage
+## 3. How We Use Your Information
 
-### 4.1 Local Storage
-- Photo data is stored locally on your device
-- App settings and preferences are saved on your device
-- Historical data is stored locally with encryption
+We use the collected information to:
 
-### 4.2 Cloud Storage
-- We do not upload your photos to our servers
-- Only necessary account and subscription information is stored
-- All data transmission uses encrypted protocols
+### 3.1 Service Provision
+- Provide and maintain the App's functionality
+- Personalize your experience
+- Process transactions and subscriptions
+- Provide customer support
 
-## 5. Information Sharing
+### 3.2 App Improvement
+- Analyze usage patterns to improve the App
+- Fix bugs and technical issues
+- Develop new features
+- Ensure App security and stability
 
-### 5.1 What We Do Not Do
-- Sell, rent, or trade your personal information
-- Share your photos with third parties
-- Use your information for marketing purposes
+### 3.3 Communication
+- Send important updates about the App
+- Respond to your inquiries
+- Provide technical support
 
-### 5.2 Sharing Only in These Cases
-- With your explicit consent
-- When required by law or government agencies
-- To protect our legitimate rights and interests
+## 4. Information Storage and Security
 
-## 6. Your Rights
+### 4.1 Data Storage
+- **Local Storage Only**: All data is stored locally on your device
+- **No Cloud Storage**: We do not store any data on external servers or cloud services
+- **Device Control**: You have complete control over your data as it remains on your device
+- **Encryption**: We use industry-standard encryption to protect your local data
 
-### 6.1 Access and Control
-- View your personal information that we collect
-- Correct or update inaccurate information
-- Delete your account and related data
+### 4.2 Security Measures
+- Secure data transmission protocols (HTTPS/TLS)
+- Regular security audits and updates
+- Access controls and authentication
+- Data minimization principles
 
-### 6.2 Opt-Out Options
-- Stop using the app at any time
-- Delete the app to remove local data
-- Contact customer service to delete cloud data
+### 4.3 Data Retention
+- **Local Data**: Stored on your device until you delete the App or manually clear data
+- **No Server Retention**: We do not retain any data on our servers
+- **Device Deletion**: Uninstalling the App permanently deletes all associated data
 
-## 7. International Transfers
+## 5. Information Sharing and Disclosure
 
-Your information may be transferred to other countries for processing. We ensure that all international transfers comply with applicable data protection laws.
+We do not sell, trade, or rent your personal information to third parties. We may share your information only in the following circumstances:
 
-## 8. Data Retention
+### 5.1 Service Providers
+- Third-party services that help us operate the App (e.g., analytics, payment processing)
+- These providers are bound by confidentiality agreements
 
-We only retain your personal information for as long as necessary:
-- Account information: Until you delete your account
-- Search history: Stored on your device and can be deleted at any time
+### 5.2 Legal Requirements
+- To comply with applicable laws and regulations
+- To respond to legal process or government requests
+- To protect our rights and prevent fraud
 
-## 9. Privacy Policy Updates
+### 5.3 Business Transfers
+- In connection with a merger, acquisition, or sale of assets
+- Users will be notified of any such changes
 
-We may update this privacy policy from time to time. For significant changes, we will notify you through the application.
+## 6. Third-Party Services
 
-## 10. Privacy Agreement Updates
+Our App may integrate with third-party services:
 
-We may update this privacy agreement from time to time. Major changes will be communicated through in-app notifications or email. Continued use of the app indicates your acceptance of the updated privacy agreement.
+### 6.1 Apple App Store
+- **Purpose**: App distribution and payment processing
+- **Data**: Purchase information, device information
+- **Privacy Policy**: [Apple Privacy Policy](https://www.apple.com/privacy/)
 
-## 11. Contact Us
+### 6.2 Analytics Services
+- **Purpose**: App performance monitoring and improvement
+- **Data**: Aggregated usage statistics
+- **Privacy Policy**: Available in respective service documentation
 
-If you have any questions or concerns about this privacy policy, please contact us through the following methods:
+### 6.3 Payment Processors
+- **Purpose**: Processing in-app purchases and subscriptions
+- **Data**: Payment information (processed securely)
+- **Privacy Policy**: Available in respective service documentation
 
-- Email: lpjustdoit0408@gmail.com
+## 7. Your Rights and Choices
 
-## 12. Governing Law
+You have the following rights regarding your personal information:
 
-This privacy policy is governed by and construed in accordance with the laws of [applicable legal jurisdiction].
+### 7.1 Access and Control
+- **View Data**: Request access to your personal information
+- **Update Data**: Correct inaccurate or incomplete information
+- **Delete Data**: Request deletion of your personal information
+- **Data Portability**: Receive a copy of your data in a portable format
+
+### 7.2 App Settings
+- **Permissions**: Manage App permissions in your device settings
+- **Notifications**: Control notification preferences
+- **Data Sync**: Enable or disable data synchronization features
+
+### 7.3 Account Management
+- **Account Deletion**: Delete your account and associated data
+- **Data Export**: Export your data before account deletion
+
+## 8. Children's Privacy
+
+Our App is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
+
+For users between 13-18 years old, we recommend parental supervision and consent.
+
+## 9. International Users
+
+Since all data is stored locally on your device, there is no cross-border data transfer. We comply with applicable international privacy laws, including:
+
+- **GDPR** (European Union)
+- **PIPEDA** (Canada)
+- **Privacy Act** (Australia)
+- **PDPA** (Singapore)
+
+## 10. California Privacy Rights (CCPA)
+
+If you are a California resident, you have additional rights under the California Consumer Privacy Act:
+
+- **Right to Know**: What personal information we collect and how we use it
+- **Right to Delete**: Request deletion of your personal information
+- **Right to Opt-Out**: Opt-out of the sale of personal information (we do not sell personal information)
+- **Right to Non-Discrimination**: We will not discriminate against you for exercising your rights
+
+## 11. Privacy Policy Updates
+
+We may update this Privacy Policy from time to time. We will notify you of any material changes by:
+
+- **In-App Notification**: Prominent notice within the App
+- **Email Notification**: If you have provided an email address
+- **Website Update**: Posting the updated policy on our website
+
+Your continued use of the App after the effective date of any changes constitutes acceptance of the updated Privacy Policy.
+
+## 12. Data Breach Response
+
+Since all data is stored locally on your device, the risk of data breaches is significantly reduced. However, if any security incident occurs:
+
+- **Investigate**: Immediately investigate and assess the incident
+- **Notify**: Notify affected users if necessary
+- **Remediate**: Take steps to prevent further incidents
+- **Document**: Document the incident and response measures
+
+## 13. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
+
+**Email**: lpjustdoit@163.com
+
+We will respond to your inquiry within 30 days.
+
+## 14. Data Deletion Instructions
+
+### 14.1 How to Delete Your Data
+1. **App Deletion**: Uninstalling the App will permanently delete all local data
+2. **Manual Deletion**: Use App settings to clear specific data types
+3. **Device Reset**: Resetting your device will remove all App data
+
+### 14.2 Impact of Data Deletion
+- All personal data will be permanently removed from your device
+- App preferences will reset to defaults
+- No data remains on external servers (since we don't store data externally)
+- Subscription status may be affected (manage through App Store)
+
+## 15. Compliance and Certifications
+
+We are committed to maintaining the highest standards of privacy protection:
+
+- **SOC 2 Type II** compliance (if applicable)
+- **ISO 27001** certification (if applicable)
+- Regular privacy impact assessments
+- Ongoing staff privacy training
 
 ---
 
-*By using our services, you confirm that you have read and understood this privacy policy.*
+In case of discrepancies between language versions, the terms most favorable to users shall prevail.
+
+**Last Updated**: January 1, 2025
