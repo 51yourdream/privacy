@@ -1,137 +1,129 @@
 # Privacy Policy
 
-**Effective Date**: January 1, 2025  
-**Last Updated**: January 1, 2025
+**Effective Date:** September 13, 2025  
+**Last Updated:** September 13, 2025
 
-## 1. Introduction
+## Introduction
 
-Welcome to Spy Cam Sentinelix (the "App"). This Privacy Policy explains how we handle your information when you use our educational privacy awareness tool. We are committed to protecting your privacy and ensuring transparency in our data practices.
+Welcome to Label Pic ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application Label Pic (the "App"). Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the App.
 
-By using our App, you agree to the collection and use of information in accordance with this Privacy Policy.
+## Information We Collect
 
-## 2. Information We Collect
+### Information You Provide Directly
+- **Label Content**: Text, images, and other content you create when making labels
+- **User Preferences**: Settings and preferences you configure within the App
+- **Account Information**: If you choose to create an account, we may collect your email address and other account details
 
-### 2.1 Information We Collect Automatically
-- **Device Information**: Device model, operating system version (for App compatibility)
-- **App Usage Data**: Features used, time spent in the App (for educational purposes)
-- **Performance Data**: App performance metrics and crash reports (for App improvement)
-- **Local Storage**: Data stored locally on your device for App functionality
+### Information Collected Automatically
+- **Device Information**: Device type, operating system version, device identifiers
+- **Usage Data**: How you interact with the App, features used, and performance data
+- **Crash Reports**: Information about App crashes and errors to help us improve the service
 
-### 2.2 Permissions We Request
-- **Camera Access**: Only when you actively use camera features for educational purposes
-- **Microphone Access**: Only when you use audio detection features
-- **Location Access**: Only when you choose to save scan locations
-- **Local Network**: For WiFi device scanning functionality
-- **Notifications**: To send you important App updates
+### Information from Third-Party Services
+- **RevenueCat**: We use RevenueCat for subscription management, which may collect purchase information and subscription status
+- **iCloud**: If you enable iCloud sync, your label data may be stored in your iCloud account
 
-## 3. How We Use Your Information
+## How We Use Your Information
 
-We use the collected information to:
+We use the information we collect to:
 
-### 3.1 Service Provision
-- Provide and maintain the App's educational functionality
-- Personalize your learning experience
-- Provide customer support
+- **Provide Services**: Enable you to create, edit, and manage labels
+- **Improve the App**: Analyze usage patterns to enhance functionality and user experience
+- **Process Payments**: Handle subscription purchases and manage premium features
+- **Customer Support**: Respond to your inquiries and provide technical support
+- **Legal Compliance**: Comply with applicable laws and regulations
 
-### 3.2 App Improvement
-- Analyze usage patterns to improve the App
-- Fix bugs and technical issues
-- Develop new educational features
-- Ensure App security and stability
+## Data Storage and Security
 
-## 4. Information Storage and Security
+### Local Storage
+- Your label data is primarily stored locally on your device
+- We use Core Data for local data persistence
+- Images and files are stored using iOS FileManager
 
-### 4.1 Data Storage
-- **Local Storage Only**: All data is stored locally on your device
-- **No Cloud Storage**: We do not store any data on external servers
-- **Device Control**: You have complete control over your data
-- **No Account Required**: The App does not require user accounts
+### Cloud Storage
+- Optional iCloud sync allows you to backup and sync your data across devices
+- iCloud data is encrypted and managed by Apple's security infrastructure
+- You can disable iCloud sync at any time in your device settings
 
-### 4.2 Security Measures
-- Secure data transmission protocols (HTTPS/TLS)
-- Regular App updates for security
-- Data minimization principles
+### Security Measures
+- We implement appropriate technical and organizational security measures
+- Data transmission uses industry-standard encryption
+- Access to your data is limited to authorized personnel only
 
-### 4.3 Data Retention
-- **Local Data**: Stored on your device until you delete the App
-- **No Server Retention**: We do not retain any data on our servers
-- **Device Deletion**: Uninstalling the App permanently deletes all data
+## Data Sharing and Disclosure
 
-## 5. Information Sharing and Disclosure
+We do not sell, trade, or otherwise transfer your personal information to third parties, except:
 
-We do not sell, trade, or rent your personal information to third parties. We may share your information only in the following circumstances:
+- **Service Providers**: We may share information with trusted third-party service providers who assist us in operating the App (e.g., RevenueCat for subscription management)
+- **Legal Requirements**: We may disclose information when required by law or to protect our rights
+- **Business Transfers**: In the event of a merger, acquisition, or sale of assets, user information may be transferred as part of the transaction
 
-### 5.1 Legal Requirements
-- To comply with applicable laws and regulations
-- To respond to legal process or government requests
-- To protect our rights and prevent fraud
+## Third-Party Services
 
-## 6. Third-Party Services
+### RevenueCat
+- We use RevenueCat for subscription and in-app purchase management
+- RevenueCat's privacy policy applies to their collection and use of your data
+- For more information, visit: https://www.revenuecat.com/privacy
 
-Our App may integrate with third-party services:
+### Apple Services
+- The App integrates with Apple's iCloud service for data synchronization
+- Apple's privacy policy applies to iCloud data
+- For more information, visit: https://www.apple.com/privacy/
 
-### 6.1 Apple App Store
-- **Purpose**: App distribution and updates
-- **Data**: Basic device information for App functionality
-- **Privacy Policy**: [Apple Privacy Policy](https://www.apple.com/privacy/)
+## Your Rights and Choices
 
-### 6.2 Analytics Services (if applicable)
-- **Purpose**: App performance monitoring
-- **Data**: Aggregated usage statistics only
-- **Privacy Policy**: Available in respective service documentation
+### Access and Control
+- You can access, modify, or delete your label data directly within the App
+- You can disable iCloud sync in your device settings
+- You can manage your subscription through your Apple ID settings
 
-## 7. Your Rights and Choices
+### Data Deletion
+- Deleting the App will remove all local data
+- iCloud data can be deleted through your iCloud settings
+- You can contact us to request deletion of any remaining data
 
-You have the following rights regarding your information:
+### Communication Preferences
+- You can opt out of promotional communications by contacting us
+- We may still send important service-related communications
 
-### 7.1 App Settings
-- **Permissions**: Manage App permissions in your device settings
-- **Notifications**: Control notification preferences
-- **Data Management**: Clear App data through device settings
+## Children's Privacy
 
-### 7.2 Data Control
-- **Delete Data**: Uninstalling the App permanently deletes all data
-- **No Account**: No account deletion needed as we don't use accounts
+The App is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us to have the information removed.
 
-## 8. Children's Privacy
+## International Users
 
-Our App is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
+If you are using the App from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated.
 
-For users between 13-18 years old, we recommend parental supervision.
+## Changes to This Privacy Policy
 
-## 9. International Users
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
+- Posting the new Privacy Policy in the App
+- Updating the "Last Updated" date at the top of this policy
+- Sending you a notification if the changes are material
 
-Since all data is stored locally on your device, there is no cross-border data transfer. We comply with applicable privacy laws.
+Your continued use of the App after any modifications constitutes acceptance of the updated Privacy Policy.
 
-## 10. Privacy Policy Updates
+## Contact Us
 
-We may update this Privacy Policy from time to time. We will notify you of any material changes by:
+If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
 
-- **In-App Notification**: Notice within the App
-- **Website Update**: Posting the updated policy on our website
+**Email:** lpjustdoit@163.com  
 
-Your continued use of the App after the effective date of any changes constitutes acceptance of the updated Privacy Policy.
+## Additional Information
 
-## 11. Contact Us
+### Data Retention
+- We retain your information for as long as necessary to provide our services
+- Local data persists until you delete the App or manually delete specific items
+- iCloud data follows Apple's retention policies
 
-If you have any questions or concerns regarding this Privacy Policy, please contact us:
+### California Privacy Rights
+If you are a California resident, you may have additional rights under the California Consumer Privacy Act (CCPA), including the right to know what personal information we collect, use, and disclose, and the right to delete your personal information.
 
-**Email**: lpjustdoit@163.com
-
-We will respond to your inquiry as soon as possible.
-
-## 12. Data Deletion Instructions
-
-### 12.1 How to Delete Your Data
-1. **App Deletion**: Uninstalling the App will permanently delete all local data
-2. **Manual Deletion**: Use device settings to clear App data
-3. **Device Reset**: Resetting your device will remove all App data
-
-### 12.2 Impact of Data Deletion
-- All personal data will be permanently removed from your device
-- App preferences will reset to defaults
-- No data remains on external servers
+### European Union Users
+If you are in the European Union, you have rights under the General Data Protection Regulation (GDPR), including the right to access, rectify, erase, restrict, or object to the processing of your personal data.
 
 ---
 
-**Last Updated**: January 1, 2025
+**Label Pic Privacy Policy**  
+Version 1.0  
+Effective: September 13, 2025
