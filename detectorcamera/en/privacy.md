@@ -1,137 +1,118 @@
 # Privacy Policy
 
-**Effective Date**: January 1, 2025  
-**Last Updated**: January 1, 2025
+**Effective Date:** September 2025
 
 ## 1. Introduction
 
-Welcome to Spy Cam Sentinelix (the "App"). This Privacy Policy explains how we handle your information when you use our educational privacy awareness tool. We are committed to protecting your privacy and ensuring transparency in our data practices.
+Welcome to Room Device Scanner. We understand the importance of privacy to you, and therefore have created this Privacy Policy to detail how we collect, use, store, and protect your personal information.
 
-By using our App, you agree to the collection and use of information in accordance with this Privacy Policy.
+## 2. Information Collection
 
-## 2. Information We Collect
+### 2.1 Device Permissions
+Our app may require the following permissions to provide core functionality:
 
-### 2.1 Information We Collect Automatically
-- **Device Information**: Device model, operating system version (for App compatibility)
-- **App Usage Data**: Features used, time spent in the App (for educational purposes)
-- **Performance Data**: App performance metrics and crash reports (for App improvement)
-- **Local Storage**: Data stored locally on your device for App functionality
+- **Camera Permission**: For room reflection testing, observing reflections on shiny surfaces
+- **Microphone Permission**: For audio spectrum analysis, visualizing unusual audio frequencies
+- **WiFi Permission**: For WiFi device scanning, finding devices connected to your network
+- **Network Permission**: For app updates and feature enhancements
+- **Location Permission**: For location-based services (optional)
 
-### 2.2 Permissions We Request
-- **Camera Access**: Only when you actively use camera features for educational purposes
-- **Microphone Access**: Only when you use audio detection features
-- **Location Access**: Only when you choose to save scan locations
-- **Local Network**: For WiFi device scanning functionality
-- **Notifications**: To send you important App updates
+### 2.2 Types of Information Collected
+- **Device Information**: Device model, operating system version, app version
+- **WiFi Network Information**: Network names, list of connected devices (for scanning purposes only)
+- **Audio Data**: Real-time audio spectrum analysis (no audio content saved)
+- **Magnetic Field Data**: Magnetometer readings (for detecting electronic devices)
+- **Usage Data**: Scan history, feature usage frequency (stored locally)
+- **Location Information**: Only collected when you authorize (optional)
 
-## 3. How We Use Your Information
+### 2.3 Information We Do Not Collect
+- Personal identification information (name, phone, email, etc.)
+- Contacts, messages, call records
+- Private data from other apps
+- Audio recording content (only real-time analysis)
+- WiFi passwords or sensitive network information
 
-We use the collected information to:
+## 3. Information Usage
 
-### 3.1 Service Provision
-- Provide and maintain the App's educational functionality
-- Personalize your learning experience
-- Provide customer support
+### 3.1 Purpose of Use
+The information we collect is used only for:
+- Providing room device scanning functionality (WiFi device detection)
+- Conducting magnetic field monitoring and analysis
+- Performing audio spectrum analysis and visualization
+- Conducting room reflection testing
+- Saving and reviewing scan history records
+- Improving app performance and user experience
+- Providing technical support
+- Complying with legal and regulatory requirements
 
-### 3.2 App Improvement
-- Analyze usage patterns to improve the App
-- Fix bugs and technical issues
-- Develop new educational features
-- Ensure App security and stability
+### 3.2 Data Storage
+- Scan history, WiFi device lists, and other data are stored only locally on your device
+- Audio data is only analyzed in real-time, no recording content is saved
+- Magnetic field data is only used for real-time monitoring, not permanently stored
+- Data is not uploaded to our servers
+- Data is not shared with third parties
 
-## 4. Information Storage and Security
+## 4. Data Security
 
-### 4.1 Data Storage
-- **Local Storage Only**: All data is stored locally on your device
-- **No Cloud Storage**: We do not store any data on external servers
-- **Device Control**: You have complete control over your data
-- **No Account Required**: The App does not require user accounts
+### 4.1 Security Measures
+- Industry-standard encryption technology to protect data
+- Regular security measure updates
+- Restricted employee access permissions
 
-### 4.2 Security Measures
-- Secure data transmission protocols (HTTPS/TLS)
-- Regular App updates for security
-- Data minimization principles
+### 4.2 Data Retention
+- Local data is deleted when you uninstall the app
+- We do not permanently retain your personal information
 
-### 4.3 Data Retention
-- **Local Data**: Stored on your device until you delete the App
-- **No Server Retention**: We do not retain any data on our servers
-- **Device Deletion**: Uninstalling the App permanently deletes all data
+## 5. Third-Party Services
 
-## 5. Information Sharing and Disclosure
+### 5.1 RevenueCat
+We use RevenueCat to handle in-app purchases:
+- Only collects necessary transaction information
+- Follows RevenueCat's privacy policy
+- Does not access your payment details
 
-We do not sell, trade, or rent your personal information to third parties. We may share your information only in the following circumstances:
+### 5.2 Other Third Parties
+- We do not sell your personal information to third parties
+- We only cooperate with trusted third parties when necessary
 
-### 5.1 Legal Requirements
-- To comply with applicable laws and regulations
-- To respond to legal process or government requests
-- To protect our rights and prevent fraud
+## 6. Children's Privacy
 
-## 6. Third-Party Services
+Our app is not designed for children under 13 years old and does not knowingly collect personal information from children.
 
-Our App may integrate with third-party services:
+## 7. Your Rights
 
-### 6.1 Apple App Store
-- **Purpose**: App distribution and updates
-- **Data**: Basic device information for App functionality
-- **Privacy Policy**: [Apple Privacy Policy](https://www.apple.com/privacy/)
+### 7.1 Access and Control
+- You can view app settings at any time
+- You can delete locally stored scan history and WiFi device lists
+- You can revoke camera, microphone, WiFi, and location permission authorizations
+- You can stop audio spectrum analysis at any time
 
-### 6.2 Analytics Services (if applicable)
-- **Purpose**: App performance monitoring
-- **Data**: Aggregated usage statistics only
-- **Privacy Policy**: Available in respective service documentation
+### 7.2 Data Deletion
+- Uninstalling the app will delete all local data
+- If you need to delete specific data, please contact us
 
-## 7. Your Rights and Choices
+## 8. Privacy Policy Updates
 
-You have the following rights regarding your information:
+We may update this Privacy Policy from time to time. Significant changes will be notified through in-app notifications or update logs.
 
-### 7.1 App Settings
-- **Permissions**: Manage App permissions in your device settings
-- **Notifications**: Control notification preferences
-- **Data Management**: Clear App data through device settings
+## 9. Contact Us
 
-### 7.2 Data Control
-- **Delete Data**: Uninstalling the App permanently deletes all data
-- **No Account**: No account deletion needed as we don't use accounts
+If you have any questions or suggestions about this Privacy Policy, please contact us through the following methods:
 
-## 8. Children's Privacy
+- Email: lpjustdoit@163.com
+- In-app feedback function
 
-Our App is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
+## 10. Terms of Use
 
-For users between 13-18 years old, we recommend parental supervision.
+This app uses the standard Apple Terms of Use (EULA):
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
-## 9. International Users
+## 11. Legal Applicability
 
-Since all data is stored locally on your device, there is no cross-border data transfer. We comply with applicable privacy laws.
-
-## 10. Privacy Policy Updates
-
-We may update this Privacy Policy from time to time. We will notify you of any material changes by:
-
-- **In-App Notification**: Notice within the App
-- **Website Update**: Posting the updated policy on our website
-
-Your continued use of the App after the effective date of any changes constitutes acceptance of the updated Privacy Policy.
-
-## 11. Contact Us
-
-If you have any questions or concerns regarding this Privacy Policy, please contact us:
-
-**Email**: lpjustdoit@163.com
-
-We will respond to your inquiry as soon as possible.
-
-## 12. Data Deletion Instructions
-
-### 12.1 How to Delete Your Data
-1. **App Deletion**: Uninstalling the App will permanently delete all local data
-2. **Manual Deletion**: Use device settings to clear App data
-3. **Device Reset**: Resetting your device will remove all App data
-
-### 12.2 Impact of Data Deletion
-- All personal data will be permanently removed from your device
-- App preferences will reset to defaults
-- No data remains on external servers
+This Privacy Policy is governed by the laws of the People's Republic of China. In case of disputes, they should be resolved through friendly consultation.
 
 ---
 
-**Last Updated**: January 1, 2025
+**Last Updated:** September 2025
+
+**Version:** 1.0
