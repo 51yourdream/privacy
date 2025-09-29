@@ -1,129 +1,176 @@
 # Privacy Policy
 
-**Effective Date:** September 13, 2025  
-**Last Updated:** September 13, 2025
+**Effective Date**: [Current Date]  
+**Last Updated**: [Current Date]
 
 ## Introduction
 
-Welcome to Label Pic ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application Label Pic (the "App"). Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the App.
+Wedding Mirror ("we," "our," or "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Wedding Mirror mobile application (the "App").
+
+By using our App, you agree to the collection and use of information in accordance with this Privacy Policy.
 
 ## Information We Collect
 
-### Information You Provide Directly
-- **Label Content**: Text, images, and other content you create when making labels
-- **User Preferences**: Settings and preferences you configure within the App
-- **Account Information**: If you choose to create an account, we may collect your email address and other account details
+### Personal Information
+- **User Account Data**: When you create an account, we may collect your email address and username.
+- **Photos**: Images you upload or capture for the AI try-on feature.
+- **Usage Data**: Information about how you use our App, including features accessed and time spent.
 
-### Information Collected Automatically
-- **Device Information**: Device type, operating system version, device identifiers
-- **Usage Data**: How you interact with the App, features used, and performance data
-- **Crash Reports**: Information about App crashes and errors to help us improve the service
-
-### Information from Third-Party Services
-- **RevenueCat**: We use RevenueCat for subscription management, which may collect purchase information and subscription status
-- **iCloud**: If you enable iCloud sync, your label data may be stored in your iCloud account
+### Automatically Collected Information
+- **Device Information**: Device model, operating system version, and unique device identifiers.
+- **App Usage Analytics**: Usage patterns, feature interactions, and performance metrics.
+- **Technical Data**: IP address, browser type, and technical specifications.
 
 ## How We Use Your Information
 
-We use the information we collect to:
+We use the collected information for the following purposes:
 
-- **Provide Services**: Enable you to create, edit, and manage labels
-- **Improve the App**: Analyze usage patterns to enhance functionality and user experience
-- **Process Payments**: Handle subscription purchases and manage premium features
-- **Customer Support**: Respond to your inquiries and provide technical support
-- **Legal Compliance**: Comply with applicable laws and regulations
+### Core App Functionality
+- **AI Try-On Feature**: Process your photos to generate virtual dress try-on results.
+- **User Experience**: Provide personalized recommendations and improve app interface.
+- **Account Management**: Maintain and manage your user account.
 
-## Data Storage and Security
+### Service Improvement
+- **App Development**: Analyze usage patterns to enhance features and functionality.
+- **Quality Assurance**: Monitor app performance and identify technical issues.
+- **Customer Support**: Respond to your inquiries and provide technical assistance.
 
-### Local Storage
-- Your label data is primarily stored locally on your device
-- We use Core Data for local data persistence
-- Images and files are stored using iOS FileManager
+### Legal Compliance
+- **Terms of Service**: Ensure compliance with our Terms of Service.
+- **Legal Obligations**: Meet applicable legal and regulatory requirements.
 
-### Cloud Storage
-- Optional iCloud sync allows you to backup and sync your data across devices
-- iCloud data is encrypted and managed by Apple's security infrastructure
-- You can disable iCloud sync at any time in your device settings
+## AI Processing and Photo Data
 
-### Security Measures
-- We implement appropriate technical and organizational security measures
-- Data transmission uses industry-standard encryption
-- Access to your data is limited to authorized personnel only
+### Photo Processing
+- **Temporary Use**: Your photos are used solely for generating AI try-on results.
+- **No Storage**: Photos are automatically deleted after processing is complete.
+- **Secure Processing**: All photo processing occurs in secure, encrypted environments.
 
-## Data Sharing and Disclosure
+### AI Technology
+- **Machine Learning Models**: We use advanced AI models to provide dress fitting services.
+- **Cloud Processing**: Photo processing may occur on secure cloud servers.
+- **No Personal Identification**: AI models do not store or learn personal identification features from your photos.
 
-We do not sell, trade, or otherwise transfer your personal information to third parties, except:
+## Information Sharing and Disclosure
 
-- **Service Providers**: We may share information with trusted third-party service providers who assist us in operating the App (e.g., RevenueCat for subscription management)
-- **Legal Requirements**: We may disclose information when required by law or to protect our rights
-- **Business Transfers**: In the event of a merger, acquisition, or sale of assets, user information may be transferred as part of the transaction
+We do not sell, trade, or otherwise transfer your personal information to third parties, except in the following circumstances:
 
-## Third-Party Services
+### Service Providers
+- **Cloud Services**: Secure cloud providers for photo processing and storage.
+- **Analytics Providers**: Anonymous usage data for app improvement.
+- **Payment Processors**: Secure payment processing through Apple App Store.
 
-### RevenueCat
-- We use RevenueCat for subscription and in-app purchase management
-- RevenueCat's privacy policy applies to their collection and use of your data
-- For more information, visit: https://www.revenuecat.com/privacy
+### Legal Requirements
+- **Court Orders**: When required by law or court order.
+- **Legal Protection**: To protect our rights, property, or safety, or that of our users.
+- **Emergencies**: In cases of imminent harm or safety concerns.
 
-### Apple Services
-- The App integrates with Apple's iCloud service for data synchronization
-- Apple's privacy policy applies to iCloud data
-- For more information, visit: https://www.apple.com/privacy/
+### Business Transfers
+- **Merger or Acquisition**: Information may be transferred in connection with business restructuring.
 
-## Your Rights and Choices
+## Data Security
 
-### Access and Control
-- You can access, modify, or delete your label data directly within the App
-- You can disable iCloud sync in your device settings
-- You can manage your subscription through your Apple ID settings
+We implement appropriate security measures to protect your information:
 
-### Data Deletion
-- Deleting the App will remove all local data
-- iCloud data can be deleted through your iCloud settings
-- You can contact us to request deletion of any remaining data
+### Technical Safeguards
+- **Encryption**: All data transmission uses industry-standard encryption.
+- **Secure Storage**: Information is stored on secured, encrypted servers.
+- **Access Controls**: Limited access to personal information only to authorized personnel.
 
-### Communication Preferences
-- You can opt out of promotional communications by contacting us
-- We may still send important service-related communications
+### Operational Security
+- **Regular Audits**: Periodic security assessments and vulnerability testing.
+- **Staff Training**: Regular privacy and security training for our team.
+- **Incident Response**: Established procedures for responding to security incidents.
 
 ## Children's Privacy
 
-The App is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us to have the information removed.
+Wedding Mirror is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information, please contact us immediately.
 
-## International Users
+## International Data Transfers
 
-If you are using the App from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated.
+Your information may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your information in accordance with applicable data protection laws.
+
+## Data Retention
+
+### User Data
+- **Account Information**: Retained while your account is active and for a limited period after deletion.
+- **Usage Analytics**: Aggregated and de-identified data may be retained for analytical purposes.
+
+### Photo Data
+- **Immediate Deletion**: Photos are automatically deleted after AI processing.
+- **No Long-term Storage**: We do not maintain copies of your photos.
+
+## Your Rights and Choices
+
+You have the following rights regarding your personal information:
+
+### Access and Control
+- **Account Settings**: Manage your account information through the App.
+- **Data Export**: Request a copy of your personal data.
+- **Data Correction**: Update or correct your personal information.
+
+### Privacy Controls
+- **Photo Permissions**: Control camera and photo library access through device settings.
+- **Analytics Opt-out**: Disable usage analytics in App settings.
+- **Marketing Communications**: Opt-out of promotional emails.
+
+### Data Deletion
+- **Account Deletion**: Request complete account and data deletion.
+- **Photo Deletion**: Immediate automatic deletion after processing.
+
+## Third-Party Services
+
+Our App may contain links to third-party services:
+
+### Apple Services
+- **App Store**: Subscription and payment processing.
+- **App Store Connect**: App distribution and analytics.
+- **iCloud**: Optional photo synchronization.
+
+### Third-Party Analytics
+- **Anonymous Analytics**: Usage statistics and performance metrics.
+- **Crash Reporting**: App stability and error reporting for improvement.
 
 ## Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by:
-- Posting the new Privacy Policy in the App
-- Updating the "Last Updated" date at the top of this policy
-- Sending you a notification if the changes are material
+We may update this Privacy Policy from time to time:
 
-Your continued use of the App after any modifications constitutes acceptance of the updated Privacy Policy.
+### Notification Process
+- **App Updates**: Changes will be effective when you update the App.
+- **Email Notification**: Significant changes will be communicated via email.
+- **In-App Notice**: Important privacy changes will be highlighted in the App.
 
-## Contact Us
+### Effective Date
+- **Immediate Effect**: Changes become effective on the specified date.
+- **Continued Use**: Continued use of the App constitutes acceptance of changes.
 
-If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
+## Compliance Frameworks
 
-**Email:** lpjustdoit@163.com  
+We comply with applicable privacy laws and regulations:
 
-## Additional Information
+### Apple Requirements
+- **App Store Guidelines**: Full compliance with Apple's privacy requirements.
+- **iOS Privacy Policy**: Aligned with iOS privacy and security standards.
 
-### Data Retention
-- We retain your information for as long as necessary to provide our services
-- Local data persists until you delete the App or manually delete specific items
-- iCloud data follows Apple's retention policies
+### Data Protection
+- **GDPR Compliance**: Adheres to EU General Data Protection Regulation principles.
+- **CCPA Compliance**: Follows California Consumer Privacy Act requirements where applicable.
 
-### California Privacy Rights
-If you are a California resident, you may have additional rights under the California Consumer Privacy Act (CCPA), including the right to know what personal information we collect, use, and disclose, and the right to delete your personal information.
+## Contact Information
 
-### European Union Users
-If you are in the European Union, you have rights under the General Data Protection Regulation (GDPR), including the right to access, rectify, erase, restrict, or object to the processing of your personal data.
+For questions about this Privacy Policy or our privacy practices, please contact us:
+
+**Email**: lpjustdoit@163.com
+
+**Subject Line**: Wedding Mirror Privacy Inquiry
+
+**Response Time**: We will respond to privacy inquiries within 30 days of receipt.
+
+## Agreement
+
+By using Wedding Mirror, you acknowledge that you have read and understood this Privacy Policy and agree to its terms. This Privacy Policy forms part of our Terms of Service.
 
 ---
 
-**Label Pic Privacy Policy**  
-Version 1.0  
-Effective: September 13, 2025
+**Wedding Mirror Privacy Policy**  
+*Last Updated: [Current Date]*
