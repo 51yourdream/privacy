@@ -1,107 +1,29 @@
-# Privacy Policy
+# Privacy Policy — Fast Delivery
 
-**Last Updated: July 2025**
+Last updated: November 10, 2026
 
-## 1. Introduction
+Fast Delivery provides local-network sharing of text, Markdown, files, images and audio. This policy covers the app and the browser page served by the sharing device.
 
-Welcome to our file sharing application ("Service"). This Privacy Policy explains how we collect, use, process, and protect your personal information.
+## Content stays under your control
+Your messages, imported attachments, voice recordings and transfer history are stored in the app's local container. We do not operate a cloud relay or upload this content to our own server. Importing copies a selected file into local history; private imports are not automatically shared. App removal or device loss can make local content unavailable; the app does not promise cloud backup or recovery.
 
-## 2. Information We Collect
+A browser on another phone, tablet or computer on the same reachable network can access only the content authorized on the sharing device. You may limit sharing to the current session, selected history or an explicitly approved snapshot of existing history. Browser uploads are not automatically exposed to other connected browsers. You can stop sharing or disconnect a device. Copies already downloaded by another person cannot be recalled.
 
-### 2.1 Network Permissions
-- We use local network permissions to create a WiFi server for device-to-device file transfer
-- Network permissions are only used within the local network and do not access the internet
-- You can revoke network access permissions at any time in your device settings
+## Local connections and QR codes
+The app uses local-network access to host the sharing page and transfer content. The QR code contains the current local service address, not an access token. Pairing requires a code and approval on the sharing device. Browser names, session credentials, authorized content IDs and connection activity are used to provide and control the local session. Session authorization is kept in memory and is revoked when sharing is explicitly stopped or the process ends. The app may retain its chosen local port as a preference. Browsers use a session cookie; authorized API responses request no caching.
 
-### 2.2 File Access Permissions
-- We only access your files when you actively choose them
-- File content is not read or analyzed, only used for transfer
-- You can revoke file access permissions at any time in system settings
+Local file traffic uses HTTP and is not encrypted. Use a trusted network and share only with people and devices you trust. The local address and file contents are visible to the intended receiving device and may be observable on the network. Locking or suspending the app may interrupt service; background availability is limited by iOS.
 
-### 2.3 Photo Library Access Permissions
-- We only access photos and videos from your photo library when you actively choose them
-- Photo library content is not automatically scanned or saved to the app
-- You can revoke photo library access permissions at any time in system settings
+## Permissions and local records
+File and system photo pickers provide the files, photos and videos you choose. Microphone access is requested when you record a voice message. We do not scan your full photo library or automatically read the clipboard; text or files are pasted when you choose to paste. The app itself generates QR codes and does not require camera access for that operation. Camera access for scanning is controlled by the other device's scanning app.
 
-### 2.4 Camera Permissions (Optional)
-- We only use camera functionality when scanning QR codes
-- Camera does not take or save photos, only used for QR code recognition
-- You can revoke camera permissions at any time in system settings
+Local preferences include language and sharing settings. Transfer attempts, success/failure state and daily allowance counts are kept locally to support progress, retry, concurrency and free usage limits. File metadata and free disk space are accessed to manage selected/local files and prevent writes when storage is insufficient. No advertising SDK or cross-app tracking is added by this update.
 
-### 2.5 Usage Data
-- File transfer records (stored locally only)
-- Application usage statistics
-- User preference settings
+## Purchases and external services
+Subscriptions and payment processing use Apple App Store and RevenueCat. These services require internet access and may process purchase history, transaction identifiers, an app-specific customer identifier and technical information needed to validate purchases, restore access and prevent duplicate transactions. Message bodies, attachment content and voice recordings are not sent to RevenueCat as part of this app's purchase integration. RevenueCat's SDK declares purchase history used for app functionality, not tracking. See Apple's privacy policy (https://www.apple.com/legal/privacy/) and RevenueCat's policy (https://www.revenuecat.com/privacy/). The app does not receive your payment-card details.
 
-## 3. Information Usage
+## Your choices
+You can change visible history, disconnect receivers, stop sharing, delete local messages and managed attachments, and revoke system permissions. Deleting a local message does not delete a recipient's saved copy or Apple's purchase records. You can manage/cancel subscriptions through your App Store account. You may uninstall the app to remove its local container, subject to the operating system's backup behavior. The app does not provide account registration or cloud message storage.
 
-We use the collected information for:
-- Providing device-to-device file transfer services
-- Improving application performance and user experience
-- Processing subscriptions and payments
-- Providing customer support
-
-## 4. Information Sharing
-
-We do not sell, trade, or rent your personal information to third parties. We may share information in the following circumstances:
-- With your explicit consent
-- To comply with legal requirements or court orders
-- To protect our rights and safety
-
-## 5. Data Security
-
-We implement appropriate technical and organizational measures to protect your personal information:
-- All data transmission occurs only within the local network
-- File content is not read or analyzed
-- Uses iOS system-provided secure storage mechanisms
-- App sandbox isolation prevents access to other app data
-
-## 6. Your Rights
-
-You have the following rights:
-- Access your personal information
-- Delete shared files
-- Clear data saved within the app
-- Revoke various permissions
-- Control whether network services are enabled
-
-## 7. Third-Party Services
-
-Our application may include links or integrations with third-party services:
-- RevenueCat (subscription management)
-- GCDWebServer (local HTTP server)
-
-Please review these third parties' privacy policies to understand their data processing practices.
-
-## 8. Children's Privacy
-
-Our service is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
-
-## 9. International Data Transfer
-
-Your information is only transmitted within the local network and will not be transmitted to external servers or international servers.
-
-## 10. Data Retention
-
-We retain your personal information only for the necessary period:
-- File transfer records: stored on your device, can be deleted at any time
-- Preference settings: until you change settings or uninstall the app
-- Usage statistics: only for feature limitations, not saved to cloud
-
-## 11. Privacy Policy Updates
-
-We may update this Privacy Policy from time to time. For significant changes, we will notify you through the application.
-
-## 12. Contact Us
-
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-
-- Email: lpjustdoit0408@gmail.com
-
-## 13. Governing Law
-
-This Privacy Policy is governed by and construed in accordance with the laws of [applicable jurisdiction].
-
----
-
-*By using our service, you acknowledge that you have read and understood this Privacy Policy.* 
+## Contact and updates
+We may update this policy when functionality changes. Questions: lpjustdoit0408@gmail.com
